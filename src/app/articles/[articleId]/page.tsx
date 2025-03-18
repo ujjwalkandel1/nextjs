@@ -17,7 +17,8 @@ export default async function NewsArticle({
             <div>
                 <Link href={`/articles/${articleId}?lang=en`}>English</Link>
                 <Link href={`/articles/${articleId}?lang=es`}>Spanish</Link>
-                <Link href={`/articles/${articleId}?lang=fr`}>French</Link>
+                <Link href={`/articles/${articleId}?lang=fr`}>French</Link> 
+                
 
             </div>
         </div>
