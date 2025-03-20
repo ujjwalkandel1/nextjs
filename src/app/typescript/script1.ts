@@ -187,11 +187,25 @@
 // function getKhattaFood(khattafood: KhattaFood){
 //    khattafood.
 // }
+ //Constructor
+// class HumanMaker {
+//    age=0;
+//    constructor(public name: string, public isHandsome: boolean){
+//    }
+// }
+// new HumanMaker('Harsh', true)
 
+// class HumanMaker {
+//    constructor(a: string, age: number =0){
 
+//    }
+// }
 
+// new HumanMaker("ujjwal", 12)
 
+// class BottleMaker{
+//    constructor (brand: string, price:number, color:string, material:string){
 
-
-
-//1.39
+//    }
+// }
+// let b1 = new BottleMaker("Ujjwal", 2000, "yellow", "metal")
